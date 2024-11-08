@@ -1,3 +1,1 @@
-username:password@ip:port
-OR
-ip:port (if no creds are needed for the proxy)
+8c5906b99fbd1c0bcd0f916d545c565ac3a09695b3b38dfda40495fcb9e200885163b30808479b1f905413f0a0c573de98daddbb253e4d8e06fdce4faa202a20d7874cee3d2c11fd0214364603239208:zncihq88f72s@proxy.toolip.io:31113
